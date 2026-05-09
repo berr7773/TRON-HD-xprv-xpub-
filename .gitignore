@@ -1,0 +1,7 @@
+.wrangler/
+test-results/
+playwright-report/
+node_modules/
+.env
+.env.*
+*.log
